@@ -1,3 +1,5 @@
+![Rating](https://img.shields.io/jetbrains/plugin/r/stars/32195) ![Downloads](https://img.shields.io/jetbrains/plugin/d/32195) ![Version](https://img.shields.io/jetbrains/plugin/v/32195)
+
 Base UI helper with smart completion, auto-import, inline docs, drag-and-drop, live preview, and a full component browser.
 
 We are building the best Base UI development experience for JetBrains IDEs and your feedback is essential. Please [leave a review](https://plugins.jetbrains.com/plugin/32195-flexible-for-base-ui), or reach out at info@ilscipio.com - we want to hear what works, what doesn't, and what you'd like to see next.
